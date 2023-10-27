@@ -8,6 +8,8 @@ Check the *[live demo](https://zivlog.io/monophase/)*.
 
 ![Screenshot Light](screenshot-light.png)
 ![Screenshot Dark](screenshot-dark.png)
+![Screenshot (280][Screenshot (280).png)
+![Screenshot_sample](Screenshot_sample.png)
 
 ## Highlight Features <!-- omit in toc -->
 
